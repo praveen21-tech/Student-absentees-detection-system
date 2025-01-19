@@ -33,7 +33,7 @@ pip install opencv-python face-recognition numpy
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/student-absentees-detection.git
+   git clone https://github.com/praveen21-tech/student-absentees-detection.git
    cd student-absentees-detection
    ```
 
