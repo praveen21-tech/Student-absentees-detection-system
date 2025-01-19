@@ -1,4 +1,3 @@
-# Student-absentees-detection-system
 # Student Absentees Detection System
 
 This repository contains a Python-based system for detecting student attendance using face recognition from CCTV or webcam video feeds. The system uses real-time face detection and recognition to identify students and mark their attendance in a CSV file.
